@@ -79,3 +79,60 @@
     color: #acb7c3;
   }
   
+  .form-section {
+    background-color: #0016df;
+    border-top-left-radius: 10rem;
+    padding-top: 5rem;
+    position: relative;
+  }
+  
+  .f-mid-elipse {
+    position: absolute;
+    width: 3rem;
+    height: 3rem;
+    left: 40%;
+  }
+  
+  .f-right-rec {
+    position: absolute;
+    width: 8rem;
+    height: 8rem;
+    top: 1.5%;
+    right: 0;
+  }
+  
+  .f-right-elipse {
+    position: absolute;
+    width: 6rem;
+    height: 9rem;
+    top: 7%;
+    right: 0;
+  }
+  
+  .f-bottom-rec {
+    position: absolute;
+    width: 8rem;
+    height: 9rem;
+    top: 84.5%;
+    right: 12%;
+  }
+  
+  .f-bottom-elipse {
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    top: 90%;
+    right: 22%;
+  }
+  
+  .f-black-rec {
+    position: absolute;
+    width: 10rem;
+    height: 10rem;
+    top: 93%;
+    right: 37%;
+  }
+  .centered{
+    margin:0 auto;
+    width:40%;
+   }
