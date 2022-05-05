@@ -1,0 +1,81 @@
+
+
+
+
+.info-heading {
+    color: #172b4d;
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 5rem;
+    margin-top: 18rem;
+  }
+  .info-paragraph {
+    font-size: 1.6rem;
+    color: #172b4d;
+    line-height: 2.4rem;
+  }
+  .project-1--img {
+    display: block;
+    margin: 0 auto;
+  }
+  .dot-icon{
+      color: grey;
+      height: 10px;
+      width: 10px;
+  }
+  .about-languajes{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  }
+  .about-languajes--arrow {
+    font-size: 2rem;
+    margin-right: 2rem;
+    transform: rotate(90deg);
+    color: #acb7c3;
+  }
+ 
+  .languajes-display {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    padding: 1rem;
+    background-color: #f7f7f9;
+  }
+  
+  .languaje-img {
+    width: 4.8rem;
+    height: 4.8rem;
+  }
+  
+  .languaje-paragraph {
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    color: #253858;
+    font-weight: 500;
+  }
+  
+  .frameworks-skills--display {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5rem;
+    border-bottom: 0.5rem solid #f7f7f9;
+    padding-bottom: 2rem;
+    list-style: none;
+  }
+  
+  .frameworks-skills-heading {
+    font-size: 2rem;
+    color: #344563;
+    margin-top: 3rem;
+  }
+  
+  .frameworks-skills-paragraph {
+    font-size: 3rem;
+    margin-right: 2rem;
+    color: #acb7c3;
+  }
+  
